@@ -3,9 +3,9 @@
 #EXTINF:-1, K+1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1IXDO1r4SZEbO1/CEhiAmA", "kid":"W9nN2GHjAW29hqzGozRhew" } ], "type":"temporary" }
-https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/53c525771aa41442047bc461662ce321/1676040744034/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/manifest.mpd?token=NTY1NzdjNjItYWJjNy1iYjZmLTgzYzYtMTI5ZmE4YTBiNGJmfHdlYnw2Y2FjYTZiZmQ1M2Q3ZWI1YTE0M2YyNzRkZjVjZmM0OXxhZTBlOTdlMi03MmUyLTQwM2UtOTU1MC0xYjIwYzQ2ODNkOWZ8bGl2ZXR2fDYzRjc5NXw3ZjYxM2E4MDlmNDI0Y2E3NDAwN2Y2ZGU3NzQ3NzA3Mw==
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2+UjFI0y8E4UrWiwjCP4sQ", "kid":"bKymv9U9frWhQ/J031z8SQ"  }] , "type":"temporary" }
+https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/f9a28142a650f8e8dd0fd89ab0d3b76e/1676069939620/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd?token=NTAyNjcyMjEtMjk0OC00NzQyLWE3Y2ItOWZhODIxZjJhYmM4fHdlYnw2Y2FjYTZiZmQ1M2Q3ZWI1YTE0M2YyNzRkZjVjZmM0OXw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDY0MkQ1NHwyN2YzMzUxZmMyN2E4OWJhMzRjZTEwYTQwMGNjNDdkYQ==
 
 
 #EXTINF:-1, K+2
