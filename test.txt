@@ -2,7 +2,7 @@
 
 #EXTINF:-1, K+
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"W9nN2GHjAW29hqzGozRhew", "kid":"bKymv9U9frWhQ/J031z8SQ" } ], "type":"temporary" }
 https://hni-fpt-001-livecdn-vthn-vnd.vieon.vn/810dc5c85fdc7d9547099b26825d2712/1676038828166/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd?token=NTY1NzdjNjItYWJjNy1iYjZmLTgzYzYtMTI5ZmE4YTBiNGJmfHdlYnw2Y2FjYTZiZmQ1M2Q3ZWI1YTE0M2YyNzRkZjVjZmM0OXw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDYzRjBCOXwwYjRkNjVlODdiOGRjNjgyNjZhZDBiOWVlMjUxMDVhYg==
