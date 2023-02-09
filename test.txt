@@ -3,7 +3,7 @@
 #EXTINF:-1, K+1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1IXDO1r4SZEbO1/CEhiAmA", "kid":"W9nN2GHjAW29hqzGozRhew" } ], "type":"temporary" }
 https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/53c525771aa41442047bc461662ce321/1676040744034/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/manifest.mpd?token=NTY1NzdjNjItYWJjNy1iYjZmLTgzYzYtMTI5ZmE4YTBiNGJmfHdlYnw2Y2FjYTZiZmQ1M2Q3ZWI1YTE0M2YyNzRkZjVjZmM0OXxhZTBlOTdlMi03MmUyLTQwM2UtOTU1MC0xYjIwYzQ2ODNkOWZ8bGl2ZXR2fDYzRjc5NXw3ZjYxM2E4MDlmNDI0Y2E3NDAwN2Y2ZGU3NzQ3NzA3Mw==
 
@@ -11,6 +11,6 @@ https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/53c525771aa41442047bc461662ce321/1
 #EXTINF:-1, K+2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1IXDO1r4SZEbO1/CEhiAmA", "kid":"W9nN2GHjAW29hqzGozRhew" } ], "type":"temporary" }
 https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/53c525771aa41442047bc461662ce321/1676040744034/wz/livetv_origin_drm/kplus_phongcach_22_08_2021_web.smil/manifest.mpd?token=NTY1NzdjNjItYWJjNy1iYjZmLTgzYzYtMTI5ZmE4YTBiNGJmfHdlYnw2Y2FjYTZiZmQ1M2Q3ZWI1YTE0M2YyNzRkZjVjZmM0OXxhZTBlOTdlMi03MmUyLTQwM2UtOTU1MC0xYjIwYzQ2ODNkOWZ8bGl2ZXR2fDYzRjc5NXw3ZjYxM2E4MDlmNDI0Y2E3NDAwN2Y2ZGU3NzQ3NzA3Mw==
